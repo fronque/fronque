@@ -3,7 +3,7 @@ My lastname is unsinn which means nonsense in english :) funny, eh?
 
 - 👀 I’m interested in a lot of things.
 (film editing - which is my occupation, music, bicycles, ...) 
-I am sorry that I did not learn coding. But it is never too late. Thank Ai I can tinker my own little projects.
+I am sorry that I did not learn coding. But it is never too late. Thanks to ai I can tinker my own little projects.
 
 <!---
 fronque/fronque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
